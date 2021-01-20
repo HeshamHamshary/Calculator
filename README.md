@@ -7,3 +7,4 @@ My first Tkinter project: a calculator.
 * Advanced Mode
 * Degree/Radian Mode
 * Information Button
+* Keyboard Integration
